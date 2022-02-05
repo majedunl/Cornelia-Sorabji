@@ -8,7 +8,7 @@
 
 <body>
 
-<h1> <em>Majed's Satellite Project</em>
+  <h1> <em>Majed's Satellite Project</em> </h>
   
   
 This website aims at building a satellite project for the One More Voice Project. It is a part of the ENGL877 Advanced Digital Humanities course offered by the English Department at the University of Nebraska-Lincoln. The focus of this website will be Cornelia Sorabji.
