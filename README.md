@@ -19,9 +19,6 @@ This website aims at building a satellite project for the <a href="https://onemo
   <img src="Cornelia.jpg" width="324" height="324">
 
 <p align="center">
-  <img src="screen1.png" width="256" height="455">
-  <img src="screen2.png" width="256" height="455">
-  <img src="screen3.png" width="256" height="455">
 </p>
  
 <h6> Corelia Sorabji
