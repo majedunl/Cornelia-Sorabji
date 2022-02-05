@@ -8,7 +8,7 @@
 
 <body>
 
-  <h1> <em>Majed's Satellite Project</em> </h>
+  <h1> <em>Majed's Satellite Project</em> </h1>
   
   
 This website aims at building a satellite project for the <a href="https://onemorevoice.org/index.html">
