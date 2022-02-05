@@ -18,6 +18,6 @@ This website aims at building a satellite project for the <a href="https://onemo
   
   <img src="Cornelia.jpg">
  
-<h3> Corelia Sorabji
+<h4> Corelia Sorabji
     Barnett, Henry Walter. “Cornelia Sorabji (with Superimposed Facsimile Signature)” ([Early twentieth century]).
     One More Voice (an imprint of Livingstone Online), site launch edition, 2020 
