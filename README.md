@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 
 <html>
 
@@ -8,9 +8,13 @@
 
 <body>
 
-<h1> <em>Majed's Satellite Project</em> </h>
+<h1> <em>Majed's Satellite Project</em>
+  
 
 <p>Cornelia Sorabji</p>
+  
+This website aims at building a satellite project for the One More Voice Project. It is a part of the ENGL877 Advanced Digital Humanities course offered by the English Department at the University of Nebraska-Lincoln. The focus of this website will be Cornelia Sorabji.
+Cornelia Sorabji (1866-1954) was an influential Indian female social reformer who used her profession as a lawyer and her writing to defend women’s rights.
 
 <h2> DH Class </h>
   
@@ -22,8 +26,4 @@
  
 <h3> Corelia Sorabji
     Barnett, Henry Walter. “Cornelia Sorabji (with Superimposed Facsimile Signature)” ([Early twentieth century]).
-    One More Voice (an imprint of Livingstone Online), site launch edition, 2020 </h>
-  
-</body>
-
-</html>
+    One More Voice (an imprint of Livingstone Online), site launch edition, 2020 
